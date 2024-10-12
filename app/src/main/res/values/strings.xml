@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AffordableHousing</string>
+    <string name="sign_in">sign_in</string>
+    <string name="welcome_to_inspection_zone">Welcome To Inspection Zone</string>
+    <string name="username">username</string>
+    <string name="Passward" />
+    <string name="Password">onyi</string>
+    <string name="Pin">Pincode</string>
+    <string name="login">Login</string>
+</resources>
